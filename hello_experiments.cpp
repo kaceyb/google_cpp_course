@@ -14,7 +14,7 @@ int main()
   {
     for (int r = 0; r < 4; r++)
     {
-      cout << setw(17) << "Hello World! ";
+      cout << setw(17) << std::left << "Hello World! ";
     }
     cout << endl;
   }
