@@ -1,6 +1,6 @@
 // hello.cpp: Kacey Bennett
 // Description: a program that prints the immortal saying "hello world"
-// many times
+// a few times
 
 #include <iostream>
 // need the following for setw() in some c++ implementations
